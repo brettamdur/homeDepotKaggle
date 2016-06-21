@@ -1,2 +1,2 @@
 # homeDepotKaggle
-Code associated with "Improving Home Depot Search Relevance", a Kaggle competition.  See http://blog.nycdatascience.com/students-work/improving-home-depot-search-relevance/
+Code associated with "Improving Home Depot Search Relevance", a Kaggle competition where our team finished in the top 15%.  I was resposible for the code and write up relating to feature engineering. See http://blog.nycdatascience.com/students-work/improving-home-depot-search-relevance/ for a blog post relating to our team's approach, and https://www.youtube.com/watch?v=7EnGE3H0AmI for a video of our team's presentation on our approach that was delivered to a gathering of data scientists at a New York City Data Science Academy meet up.
